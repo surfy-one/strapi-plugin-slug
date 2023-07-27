@@ -1,0 +1,35 @@
+{
+	"name": "@surfy/strapi-plugin-slug",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"strapi": {
+		"name": "url",
+		"description": "Auto URL plugin",
+		"kind": "plugin",
+		"displayName": "Auto URL"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/surfy-one/strapi-plugin-slug.git"
+	},
+	"bugs": {
+		"url": "https://github.com/surfy-one/strapi-plugin-slug/issues"
+	},
+	"homepage": "https://surfy.one",
+	"author": {
+		"name": "Alexander Yermolenko",
+		"email": "i@surfy.one",
+		"url": "https://surfy.one"
+	},
+	"license": "ISC",
+	"keywords": [
+		"strapi",
+		"slug",
+		"custom fields",
+		"url"
+	]
+}
